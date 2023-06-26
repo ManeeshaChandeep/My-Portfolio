@@ -527,3 +527,8 @@ nav .fa-solid {
     background: white;
     color: orange;
 }
+@media (max-width: 600px) {
+    #sidemenu{
+        display: none;
+    }
+}
