@@ -6,8 +6,11 @@ let customerDB = [
 
 
 let itemDB = [
-    {code: "I00-001", name: "Samsung J7", price: 50000, qty: 10},
-    {code: "I00-002", name: "Samsung S7", price: 25000, qty: 20},
-    {code: "I00-003", name: "Vivo Y19", price: 35000, qty: 5}
+    {code: "I00-001", name: "Samsung A21", price: 120000, qty: 20},
+    {code: "I00-002", name: "Samsung S21", price: 150000, qty: 35},
+    {code: "I00-003", name: "Samsung S21pro", price: 200000, qty: 50}
 ];
 
+let orderDB=[];
+
+let orderDetailsDB=[];
